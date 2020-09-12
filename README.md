@@ -11,4 +11,4 @@
 [![미야](https://img.shields.io/discord/702880464893116518?color=%23FFFCC9&label=Discord&logo=Discord&logoColor=%23FFFFFF&style=for-the-badge)](https://discord.gg/mdgaSjB)
 
 
-# 저에게 하실 말씀이 있으시면 디스코드: WhiteKJ#1221 로 친추해주세요. 
+##### 저에게 하실 말씀이 있으시면 디스코드: WhiteKJ#1221 로 친추해주세요!
