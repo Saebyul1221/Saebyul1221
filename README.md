@@ -1,7 +1,7 @@
 # 👋 환영합니다 !
 ![CwhiteKJ's github stats](https://github-readme-stats.vercel.app/api?username=CwhiteKJ&show_icons=true&hide_border=true)
 
-저는 현재 디스코드에서 **[미야](https://github.com/CwhiteKJ/Miya)** 라는 봇을 운영하고 있어요.   
+저는 현재 디스코드에서 **[미야](https://github.com/LRACT/Miya)** 라는 봇을 운영하고 있어요.   
 또한 저는 아래 두 서버를 관리하고 있어요. 관심이 있다면 아래 디스코드 사진을 눌러서 와주세요!    
 
 ##### Developers Forum
