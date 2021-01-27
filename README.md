@@ -5,6 +5,7 @@
 또한 저는 아래 두 서버를 관리하고 있어요. 관심이 있다면 아래 디스코드 사진을 눌러서 와주세요!    
 그리고 저는 Javascript 를 주로 사용해요!    
 ![Nodejs](https://raw.githubusercontent.com/sindresorhus/ora/master/screenshot.svg)
+
 --- 
 ##### Developers Forum
 [![Developers Forum](https://img.shields.io/discord/702880464893116518?color=%23FFFCC9&label=Discord&logo=Discord&logoColor=%23FFFFFF&style=for-the-badge)](https://discord.gg/DyGqBZm)    
