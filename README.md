@@ -1,17 +1,72 @@
-# 👋 환영합니다 !
-![CwhiteKJ's github stats](https://github-readme-stats.vercel.app/api?username=CwhiteKJ&show_icons=true&hide_border=true)
+<div align="right">
+  <img 
+    src="https://komarev.com/ghpvc/?username=cwhitekj&label=PROFILE+VIEWS" 
+    align="right" 
+  />
+</div>
 
-저는 현재 디스코드에서 **[미야](https://github.com/LRACT/Miya)** 라는 봇을 운영하고 있어요.   
-또한 저는 아래 두 서버를 관리하고 있어요. 관심이 있다면 아래 디스코드 사진을 눌러서 와주세요!    
-그리고 저는 Javascript 를 주로 사용해요!    
-![Nodejs](https://raw.githubusercontent.com/sindresorhus/ora/master/screenshot.svg)
+## Hi There 👋
 
---- 
-##### Developers Forum
-[![Developers Forum](https://img.shields.io/discord/702880464893116518?color=%23FFFCC9&label=Discord&logo=Discord&logoColor=%23FFFFFF&style=for-the-badge)](https://discord.gg/DyGqBZm)    
+Hello, I'm WhiteKJ.
+I am a current student and I am studying programming.
 
-##### 미야
-[![미야](https://img.shields.io/discord/564418977627897887?color=%23FFFCC9&label=Discord&logo=Discord&logoColor=%23FFFFFF&style=for-the-badge)](https://discord.gg/mdgaSjB)
+If you want to contact me, please leave me a message!
 
+- **Discord:** WhiteKJ#1221
+- **Email:** whitekj1221@gmail.com
 
-##### 저에게 하실 말씀이 있으시면 디스코드: WhiteKJ#1221 로 친추해주세요!
+_Fun fact: 1221 is my birthday on December 21st._
+
+### Summary
+
+- 🔭 I’m currently working on [Miho](https://github.com/CwhiteKJ/Miho)
+- 👯 I’m looking to collaborate on [Miya](https://github.com/LRACT/Miya)
+- 🌱 I’m currently learning **Javascript & Python**
+
+<h3 align="left">Languages and Tools:</h3>
+<div sttyle='float:left'>
+<img 
+  style="margin: 10px"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+  alt="javascript" 
+  height="40"
+/>
+<img 
+  style="margin: 10px"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+  alt="python" 
+  height="40"
+/> 
+<img 
+  style="margin: 10px"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" 
+  alt="express" 
+  height="40"
+/> 
+<img
+  style="margin: 10px"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+  alt="nodejs" 
+  height="40"
+/> 
+</div>
+
+### Github Stats
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=cwhitekj&show_icons=true&count_private=true&hide_border=true" align="left" 
+        style="width: 100%" 
+      />
+    </td>
+    <td valign="top" width="50%">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwhitekj&hide_border=true&layout=compact" 
+        align="left" 
+        style="width: 100%"
+      />
+    </td>
+  </tr>
+</table>
