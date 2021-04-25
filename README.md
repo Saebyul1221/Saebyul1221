@@ -12,7 +12,7 @@ I am a current student and I am studying programming.
 
 If you want to contact me, please leave me a message!
 
-- **Discord:** WhiteKJ#1221
+- **Discord:** Frelicity#1221
 - **Email:** whitekj1221@gmail.com
 
 _Fun fact: 1221 is my birthday on December 21st._
