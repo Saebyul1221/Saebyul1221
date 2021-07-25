@@ -19,7 +19,7 @@ _Fun fact: 1221 is my birthday on December 21st._
 
 ### Summary
 
-- 🔭 I’m currently working on [Miho](https://github.com/CwhiteKJ/Miho)
+- 🔭 I’m currently working on [Halun](https://github.com/CwhiteKJ/Halun)
 - 👯 I’m looking to collaborate on [Miya](https://github.com/LRACT/Miya)
 - 🌱 I’m currently learning **Javascript, Python and Java!**
 
