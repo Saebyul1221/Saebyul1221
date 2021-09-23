@@ -7,19 +7,18 @@
 
 ## Hi There 👋
 
-Hello, I'm WhiteKJ.
+Hello, I'm Saebyul.
 I am a current student and I am studying programming.
 
 If you want to contact me, please leave me a message!
 
-- **Discord:** WhiteKJ#1221
-- **Email:** whitekj1221@gmail.com
+- **Discord:** Saebyul#1221
 
 _Fun fact: 1221 is my birthday on December 21st._
 
 ### Summary
 
-- 🔭 I’m currently working on [Halun](https://github.com/CwhiteKJ/Halun)
+- 🔭 I’m currently working on [Halun](https://github.com/Saebyul/Halun)
 - 👯 I’m looking to collaborate on [Miya](https://github.com/LRACT/Miya)
 - 🌱 I’m currently learning **Javascript, Python and Java!**
 
@@ -57,13 +56,13 @@ _Fun fact: 1221 is my birthday on December 21st._
   <tr>
     <td valign="top" width="50%">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=cwhitekj&show_icons=true&count_private=true&hide_border=true" align="left" 
+        src="https://github-readme-stats.vercel.app/api?username=Saebyul&show_icons=true&count_private=true&hide_border=true" align="left" 
         style="width: 100%" 
       />
     </td>
     <td valign="top" width="50%">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwhitekj&hide_border=true&layout=compact" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saebyul&hide_border=true&layout=compact" 
         align="left" 
         style="width: 100%"
       />
