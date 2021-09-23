@@ -1,6 +1,6 @@
 <div align="right">
   <img 
-    src="https://komarev.com/ghpvc/?username=cwhitekj&label=PROFILE+VIEWS" 
+    src="https://komarev.com/ghpvc/?username=Saebyul1221&label=PROFILE+VIEWS" 
     align="right" 
   />
 </div>
@@ -18,7 +18,7 @@ _Fun fact: 1221 is my birthday on December 21st._
 
 ### Summary
 
-- 🔭 I’m currently working on [Halun](https://github.com/Saebyul/Halun)
+- 🔭 I’m currently working on [Halun](https://github.com/Saebyul1221/Halun)
 - 👯 I’m looking to collaborate on [Miya](https://github.com/LRACT/Miya)
 - 🌱 I’m currently learning **Javascript, Python and Java!**
 
@@ -56,13 +56,13 @@ _Fun fact: 1221 is my birthday on December 21st._
   <tr>
     <td valign="top" width="50%">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=Saebyul&show_icons=true&count_private=true&hide_border=true" align="left" 
+        src="https://github-readme-stats.vercel.app/api?username=Saebyul1221&show_icons=true&count_private=true&hide_border=true" align="left" 
         style="width: 100%" 
       />
     </td>
     <td valign="top" width="50%">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saebyul&hide_border=true&layout=compact" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saebyul1221&hide_border=true&layout=compact" 
         align="left" 
         style="width: 100%"
       />
