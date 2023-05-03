@@ -19,7 +19,6 @@ _Fun fact: 1221 is my birthday on December 21st._
 ### Summary
 
 - 🔭 I’m currently working on [Halun](https://github.com/Saebyul1221/Halun)
-- 👯 I’m looking to collaborate on [Miya](https://github.com/LRACT/Miya)
 - 🌱 I’m currently learning **Javascript, Python and Java!**
 
 <h3 align="left">Languages and Tools:</h3>
