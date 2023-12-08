@@ -8,7 +8,7 @@
 ## Hi There 👋
 
 Hello, I'm Saebyul.
-I am a current student and I am studying programming.
+I am currently employed as a developer.
 
 If you want to contact me, please leave me a message!
 
@@ -18,7 +18,7 @@ _Fun fact: 1221 is my birthday on December 21st._
 
 ### Summary
 
-- 🔭 I’m currently working on [Halun](https://github.com/Saebyul1221/Halun)
+- 🔭 I'm currently working as a **developer**.
 - 🌱 I’m currently learning **Javascript, Python and Java!**
 
 <h3 align="left">Languages and Tools:</h3>
@@ -46,6 +46,18 @@ _Fun fact: 1221 is my birthday on December 21st._
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
   alt="nodejs" 
   height="40"
+/>
+<img
+style="margin: 10px"
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/2560px-Spring_Framework_Logo_2018.svg.png"
+alt="spring" 
+height="40"
+/> 
+<img
+style="margin: 10px"
+src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png"
+alt="docker" 
+height="40"
 /> 
 </div>
 
