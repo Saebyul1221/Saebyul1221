@@ -35,18 +35,6 @@ _Fun fact: 1221 is my birthday on December 21st._
   alt="python" 
   height="40"
 /> 
-<img 
-  style="margin: 10px"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" 
-  alt="express" 
-  height="40"
-/> 
-<img
-  style="margin: 10px"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-  alt="nodejs" 
-  height="40"
-/>
 <img
 style="margin: 10px"
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/2560px-Spring_Framework_Logo_2018.svg.png"
